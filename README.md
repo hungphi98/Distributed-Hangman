@@ -1,5 +1,5 @@
 # Elixir_beginner
-My attempt to learn this beautiful language
+Distributed Client for the Hangman game
 
 ### How to run
 You should have Elixir on your computer. Instructions for installing here: https://elixir-lang.org/install.html
