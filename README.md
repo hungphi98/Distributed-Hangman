@@ -1,5 +1,5 @@
 # Elixir_beginner
-Distributed Client for the Hangman game, supports up to 20000 clients. Easy to scale, thanks to decoupling designs.
+Distributed Client for the Hangman game, supports up to 20000 clients. 
 
 ### How to run
 You should have Elixir on your computer. Instructions for installing here: https://elixir-lang.org/install.html
